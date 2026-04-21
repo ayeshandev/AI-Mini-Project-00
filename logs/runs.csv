@@ -69,3 +69,4 @@ timestamp,provider,model,technique,latency_ms,input_tokens_est,context_tokens_es
 2026-04-21T17:39:31.800930,openai,o3-mini,cot,8029,242,0,245,244,1031,1275,0,0,False,~$0.004368,
 2026-04-21T23:25:40.751468,openai,o3-mini,cot,7162,206,0,209,208,477,685,0,0,False,~$0.002116,
 2026-04-21T23:27:32.311286,openai,o3-mini,cot,21787,279,0,282,281,2395,2676,0,0,False,~$0.009861,
+2026-04-21T23:35:19.437993,openai,o3-mini,cot,7027,279,0,282,281,660,941,0,0,False,~$0.002921,
