@@ -58,3 +58,5 @@ timestamp,provider,model,technique,latency_ms,input_tokens_est,context_tokens_es
 2025-12-22T00:35:46.037908,openai,gemini-3-pro-preview,tot,43435,76,0,79,76,,76,0,0,False,N/A,
 2026-01-03T23:51:50.945267,google,gemini-2.0-flash-exp,json_extract,1512,140,0,143,164,44,208,0,0,False,N/A,
 2026-01-03T23:52:05.970418,openai,gemini-2.0-flash-exp,json_extract_pydantic,1103,222,0,225,258,36,294,0,0,False,N/A,
+2026-04-21T15:36:59.915623,openai,gpt-4o-mini,few_shot,3310,418,0,421,421,12,433,0,0,False,~$0.000070,
+2026-04-21T15:37:51.805691,openai,gpt-4o-mini,few_shot,2623,409,0,412,412,13,425,0,0,False,~$0.000070,
